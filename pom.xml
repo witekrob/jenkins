@@ -59,7 +59,7 @@
 				<deployables>
 					<deployable>
 						<properties>
-							<context>cargo</context>
+							<context>integracja</context>
 						</properties>
 					</deployable>
 				</deployables>
